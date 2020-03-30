@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 
 
 /*
- Autor: Foko Fotso, Serge
+ Autor: Foko Fotso
  */
 
 public class Main extends Application {
