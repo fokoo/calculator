@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /*
- Autor: Foko Fotso, Serge
+ Autor: Foko Fotso
  */
 
 
