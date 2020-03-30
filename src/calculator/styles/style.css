@@ -1,0 +1,10 @@
+.number-button{
+    /*-fx-font-size: 25px;*/
+    -fx-font-weight: bold;
+    /*-fx-background-color: aquamarine;*/
+}
+.operator-button{
+    /*-fx-font-size: 20px;*/
+    -fx-font-weight: lighter;
+    /*-fx-background-color: antiquewhite;*/
+}
